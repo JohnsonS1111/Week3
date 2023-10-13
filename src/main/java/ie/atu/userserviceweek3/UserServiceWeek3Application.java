@@ -1,4 +1,4 @@
-package ie.atu.ie.userserviceweek3;
+package ie.atu.userserviceweek3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
